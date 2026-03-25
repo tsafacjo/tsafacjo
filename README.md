@@ -1,4 +1,4 @@
-# Hi, I'm [tsafacjo]! AKA the_process 👋
+# Hi, I'm tsafacjo alias the_process ! 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on ...eazy_tnr
