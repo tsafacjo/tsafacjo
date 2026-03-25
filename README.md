@@ -1,7 +1,7 @@
 # Hi, I'm tsafacjo alias the_process ! 👋
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on ...eazy_tnr
+- 🔭 I’m currently working on ...lazy_tnr
 - 🌱 I’m currently learning ...  fondamental cpython deep down
 - 💬 Ask me about ...
 
