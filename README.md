@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on ...lazy_tnr
-- 🌱 I’m currently learning ...  fondamental cpython deep down
+- 🌱 I’m currently learning ...  fondamental cpython deep down | preparing the CFA level 1 (try to improve my quant skills)
 - 💬 Ask me about ...
 
 ### 🛠 Tech Stack
